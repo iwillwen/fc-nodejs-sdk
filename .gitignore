@@ -7,3 +7,5 @@ test/config.js
 test/figures/*.zip
 doc/*
 .env
+lib
+types
